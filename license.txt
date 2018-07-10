@@ -1,5 +1,5 @@
 Copyright (c) " 2018 by Technical University of Munich
-                Contributors: Sascha Frölich
+                Contributors: Sascha Frölich (sascha.froelich@gmail.com)
                 Affiliation: Dr. Christian Sorg, Neuro-Kopf-Zentrum, Rechts der Isar Hospital, Munich
                 Citation: RSLA Toolbox at github.com/SaschaFroelich/RSLA"
 
