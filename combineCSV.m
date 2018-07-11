@@ -1,9 +1,9 @@
 function []=combineCSV()
-% combineCSV() two CSV-files into one by appending the second csv-file to the
+% Combines CSV-files into one by appending the second csv-file to the
 % first. IMPORTANT: Matching of the rows is done by comparing the 
 % contents of the first column (rows 2 to end) of the first file with the
-% contenst of the first column (rows 2 to end) of the second file. If in
-% both files, two cells in the first column contain the same entry, then
+% contenst of the first column (rows 2 to end) of the second file. If two 
+% cells of the first column contain the same entry in both files, then
 % they are matched and appended. If no cell matching can be done for a cell
 % in first column of second file, a new row will be created for the
 % corresponding cell.
